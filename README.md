@@ -20,7 +20,7 @@ optional arguments:
 
 # Example Output
 ```
-python3 winid.py 4768,4771,4625           
+exampleuser@examplegroup ~ % python3 winid.py 4768,4771,4625           
 ==================================================
 
 4768 - A Kerberos authentication ticket (TGT) was requested
